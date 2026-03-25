@@ -1,0 +1,10 @@
+env/
+.env
+.DS_Store
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+.vscode/
+docs/
+data/raw/
+__pycache__/
